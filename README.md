@@ -1,3 +1,9 @@
+# Auroracoin P2P Crawler
+
+We can investigate whether this can be used for the auroracoin network.  It seems atleast worthy starting point and code is fairly simple. 
+
+
+
 # Kaspa P2P Crawler
 
 This is a repository for research purposes with a limited *(read: wrong)* 
